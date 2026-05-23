@@ -1,2 +1,2 @@
 # Python_problems
-practice
+These are my Python practice problems, along with their corresponding solution approaches and implementations.
